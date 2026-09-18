@@ -36,9 +36,9 @@ export const Sidebar = ({ currentPage, onSelectPage }) => {
             <Plane className="w-4 h-4 text-white" />
           </div>
           <div>
-            <h1 className="text-sm font-bold tracking-tight text-white">AeroIndex</h1>
+            <h1 className="text-sm font-bold tracking-tight text-white"> AFPI </h1>
             <p className="text-[10px] text-slate-400 font-mono tracking-wider uppercase">
-              SIH 2026 · MoCA
+              Smart Airfare Analytics
             </p>
           </div>
         </div>
